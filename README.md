@@ -1,17 +1,8 @@
-# Trabajo 02 Javascript
+# Juego con phaser
+Pequeño proyecto de un minijuego realizado con phaser, siguiendo un tutorial, el objetivo es conocer como funciona y sobretodo practicar el lenguaje de javascript.
 
 ## Objetivo
-Conocer javascript
-
-Desarrollo
-
-Usando phaser realiza un video juego donde el método de entrada sea el cursor.
-
-
-Entregable
-
-Enlace del repositorio del código fuente.
-Añadir un reporte con capturas de pantalla de tu aplicación. 
+Usando phaser realizar un video juego donde el método de entrada sea el cursor.
 
 Bibliografia
 http://phaser.io/tutorials/making-your-first-phaser-3-game/
