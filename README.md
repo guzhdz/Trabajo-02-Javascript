@@ -9,7 +9,7 @@ http://phaser.io/tutorials/making-your-first-phaser-3-game/
 
 
 ## Resultados
-Link: [https://guzhdz.github.io/Tarea-2-Juego-adivina-el-numero/](https://guzhdz.github.io/Trabajo-02-Javascript/)
+Link despliegue: https://guzhdz.github.io/juego-phaser/ 
 
 ![image](https://github.com/guzhdz/Trabajo-02-Javascript/assets/89165084/6a2461e7-c404-436e-afc1-4d12baca7c13)
 
